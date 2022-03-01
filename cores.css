@@ -1,0 +1,48 @@
+    /* *{
+        margin:0;
+        padding: 0;
+    } */
+    body {
+     background-color: rgb(57, 57, 58);
+        font-size:20px;
+        font-family: 'Fredoka', sans-serif;
+    }
+ h1{
+    color: rgb(154, 225, 157);
+    max-width: fit-content;
+    /* position:absolute; */
+    /* float:center; */
+    font-family: 'Fredoka', sans-serif;
+    font-size: 2.5em;
+     position:absolute;
+    top:50px; left:500px;
+
+}
+    p{   font-family: 'Fredoka', sans-serif;
+        color:rgb(255, 234, 238);
+         max-width: fit-content;
+         font-size: 1.3em;
+         background-color:rgb(52, 58, 64);
+            width: 380px;
+            position: absolute;
+            top: 150px;left:350px; padding:20px
+    }
+    img{
+       border-radius: 50%;
+        position: absolute;
+       top:100px;
+       left:800px
+       
+    }
+
+    #list{
+        color: rgb(255, 155, 113);
+        font-size: 1.8em;
+        position:absolute;
+        top:450px 
+    }
+
+    #links{
+        position:absolute;
+        top:1000px
+    }
